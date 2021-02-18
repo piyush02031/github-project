@@ -65,4 +65,5 @@ More details about this way of testing can be found in https://testing-library.c
 
 ![first image](https://github.com/piyush02031/github-project/blob/main/screenshot.JPG)
 ![second image](https://github.com/piyush02031/github-project/blob/main/screenshot2.JPG)
+![tests](https://github.com/piyush02031/github-project/blob/main/tests.JPG)
 
