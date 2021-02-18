@@ -28,16 +28,16 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
-# GitHub Access Key
+### GitHub Access Key
 if you see an error with 'bad credentials' in craphql api response.
 Please update 'BEARER_TOKEN' in Constants.js filw with your key.
 
-#How to get new Github Access key?
+#### How to get new Github Access key?
 github > settings > developer settings > personal access token > generate new token
 add any note and selects the required options and click on 'Generate Token'.
 copy the token
 
-### Components
+## Components
 
 #ErrorBoundary component
 If there is any exection in the child component. it will be cought in ErrorBoundary component in production mode.
@@ -62,3 +62,7 @@ More details about apollo client with react can be found here https://www.apollo
 More details about this way of testing can be found in https://testing-library.com/docs/react-testing-library/intro/
 
 # screenshots
+
+![first image](https://github.com/piyush02031/github-project/blob/main/screenshot.JPG)
+![second image](https://github.com/piyush02031/github-project/blob/main/screenshot2.JPG)
+
