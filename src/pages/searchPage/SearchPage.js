@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import { gql, useQuery } from "@apollo/client";
+import { useQuery } from "@apollo/client";
 import "./SearchPage.scss";
-import Button from "../../commonComponents/button/Button";
 import ReposList from "../../components/searchResultsContainer/ReposList";
 import Spinner from "../../commonComponents/spinner/Spinner";
 import SearchInput from "../../components/search/SearchInput";
